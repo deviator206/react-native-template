@@ -1,0 +1,6 @@
+module Pods_helpinout_helpinoutTests {
+  umbrella header "Pods-helpinout-helpinoutTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
